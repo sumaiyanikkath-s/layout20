@@ -1,0 +1,243 @@
+.headera .wrapper
+ {
+	width:80%;
+	margin:auto;
+ } 
+ 
+ .logo .wrapper
+ {
+	width:80%;
+	margin:auto;
+ } 
+ .pricing .wrapper
+ {
+	width:80%;
+	margin:auto;
+ } 
+.paritura .wrapper
+ {
+	width:80%;
+	margin:auto;
+ } 
+.companya  .wrapper
+ {
+	width:80%;
+	margin:auto;
+ } 
+.headera
+{
+	background-color:lightgray;
+	height:81px;
+}
+.headera .headera-fc
+{
+	display:flex;
+	justify-content:space-between;
+}
+.headera .headera-fc .heada
+{
+	background-color:skyblue;
+	height:50px;
+	width:30%;
+	margin-top:10px;
+}
+.headera .headera-fc .hcon
+{
+	background-color:lightgray;
+	height:81px;
+	width:50%;
+	display:flex;
+	justify-content:space-evenly;
+}
+.headera .headera-fc .hcon .headb
+{
+	background-color:plum;
+	height:40px;
+	width:15%;
+	margin-top:15px;
+}
+.headera .headera-fc .hcon .headc
+{
+	background-color:plum;
+	height:40px;
+	width:15%;
+	margin-top:15px;
+}
+.headera .headera-fc .hcon .headd
+{
+	background-color:plum;
+	height:40px;
+	width:15%;
+	margin-top:15px;
+}
+.headera .headera-fc .hcon .heade
+{
+	background-color:plum;
+	height:40px;
+	width:15%;
+	margin-top:15px;
+}
+.logo 
+{
+	background-color:lime;
+	height:500px;
+}
+.logo .logo-fc
+{
+	display:flex;
+	flex-direction:row;
+	flex-wrap:wrap;
+	justify-content:center;
+}
+.logo .logo-fc .logob
+{
+	background-color:purple;
+	height:200px;
+	width:40%;
+	margin-top:150px;
+}
+.pricing 
+{
+	background-color:lightskyblue;
+	height:2000px;
+}
+.pricing  .pricing-fc
+{
+	display:flex;
+	flex-direction:row;
+	justify-content:space-evenly;
+	flex-wrap:wrap;
+}
+.pricing  .pricing-fc .pric
+{
+	text-align:center;
+	width:100%;
+	margin-top:20px;
+}
+.pricing  .pricing-fc .bloga
+{
+	background:white;
+	height:300px;
+	width:70%;
+	margin-top:40px;
+}
+.pricing  .pricing-fc .bloga .blogbut
+{
+	background-color:plum;
+	width:50%;
+	margin-top:200px;
+	height:50px;
+}
+.pricing  .pricing-fc .blogb
+{
+	background:white;
+	height:300px;
+	width:70%;
+	margin-top:40px;
+}
+.pricing  .pricing-fc .blogb .blogbuta
+{
+	background-color:plum;
+	width:50%;
+	margin-top:200px;
+	height:50px;
+}
+.pricing  .pricing-fc .blogc
+{
+	background:white;
+	height:300px;
+	width:70%;
+	margin-top:40px;
+}
+.pricing  .pricing-fc .blogc .blogbutb
+{
+	background-color:plum;
+	width:50%;
+	margin-top:200px;
+	height:50px;
+}
+.pricing  .pricing-fc .blogd
+{
+	background:white;
+	height:300px;
+	width:70%;
+	margin-top:40px;
+}
+.pricing  .pricing-fc .blogd .blogbutc
+{
+	background-color:plum;
+	width:50%;
+	margin-top:200px;
+	height:50px;
+}
+.pricing  .pricing-fc .bloge
+{
+	background:white;
+	height:300px;
+	width:70%;
+	margin-top:40px;
+}
+.pricing  .pricing-fc .bloge .blogbutd
+{
+	background-color:plum;
+	width:50%;
+	margin-top:200px;
+	height:50px;
+}
+.paritura
+{
+		background-color:plum;
+		height:150px;
+}
+.paritura .paritura-fc
+{
+	display:flex;
+	flex-direction:row;
+	justify-content:flex-end;
+} 
+.paritura .paritura-fc .patext
+{
+	background-color:lightskyblue;
+	width:20%;
+	height:100px;
+	margin-top:25px;
+} 
+.companya 
+{
+	background-color:lightskyblue;
+	height:250px;
+}
+.companya .companya-fc 
+{
+	display:flex;
+	justify-content:space-evenly;
+	flex-direction:row;
+}
+.companya .companya-fc  .ca
+{
+	background-color:white;
+	height:100px;
+	width:12%;
+	margin-top:40px;
+}
+.companya .companya-fc  .cb
+{
+	background-color:plum;
+	height:100px;
+	width:12%;
+	margin-top:40px;
+}
+.companya .companya-fc  .cc
+{
+	background-color:white;
+	height:100px;
+	width:12%;
+	margin-top:40px;
+}
+.companya .companya-fc  .cd
+{
+	background-color:plum;
+	height:100px;
+	width:12%;
+	margin-top:40px;
+}
